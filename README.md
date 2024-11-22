@@ -1,13 +1,12 @@
 # ConnectHub
-* A simple Video Chat App using React js with socket io  
+* A simple Video Chat App using React js with webRTC 
 * You can simply clone this repo and run npm i to install all the dependencies   
 * Then again go inside the client folder and run npm i to create the react app  
 * Now simply start the server by npm start and then react by npm start inside the client folder and you are ready to work on the locolhost.  
-* Link : https://sumitsconnecthub.netlify.app/
 
 
 # ConnectHub - Real-time Video Calling App
-Welcome to ConnectHub! ConnectHub is a real-time video calling application that allows users to make video calls and communicate with each other in real-time. It is built using React for the frontend and Socket.IO for real-time communication between clients. The application uses WebRTC technology for peer-to-peer video streaming.
+Welcome to ConnectHub! ConnectHub is a real-time video calling application that allows users to make video calls and communicate with each other in real-time. It is built using React for the frontend and socketio for real-time communication between clients. The application uses WebRTC technology for peer-to-peer video streaming.
 
 ## Features
 📹 Real-time video calling between users.  
@@ -15,8 +14,6 @@ Welcome to ConnectHub! ConnectHub is a real-time video calling application that 
 🔔 Instant notifications for incoming calls.  
 🎤 Support for both video and audio during the call.  
 📱 Responsive design for seamless usage across devices.  
-## Demo
-https://sumitsconnecthub.netlify.app/
 
 ## Table of Contents
 ### Installation
@@ -27,7 +24,7 @@ https://sumitsconnecthub.netlify.app/
 To run ConnectHub locally, follow these steps:  
 
 Clone the repository to your local machine using the following command:  
-git clone https://github.com/sumit334/ConnectHub.git  
+git clone https://github.com/Yash1719/ConnectHub.git
 Change directory to the project folder:  
 cd ConnectHub  
 Install the project dependencies using npm:  
